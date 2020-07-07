@@ -15,7 +15,7 @@
     "ffmpeg-concat": "^1.1.0",
     "install": "^0.13.0",
     "log-timestamp": "^0.3.0",
-    "npm": "^6.14.5",
+    "npm": "^6.14.6",
     "remove-accents": "^0.4.2",
     "sanitize-filename": "^1.6.3",
     "selenium-webdriver": "^4.0.0-alpha.7"
